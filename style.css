@@ -3,3 +3,57 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+nav {
+  position: center;
+  padding: 10px;
+  background-color: rgb(213, 204, 204);
+}
+
+#featured-property {
+  width: 800px;
+  text-align: center;
+}
+.flex-container {
+  display: flex;
+  background-color: rgb(195, 15, 30);
+}
+
+.flex-container > div {
+  background-color: #ca0b0bd7;
+  margin: 60px;
+  padding: 30px;
+  font-size: 20px;
+}
+
+
+.one{
+  background-color: red;
+}
+
+
+
+.two{
+  background-color: red;
+}
+.three{
+  background-color: red;
+}
+
+.four{
+  background-color: red;
+}
